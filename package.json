@@ -1,12 +1,12 @@
 {
   "name": "parken-platzfinder",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Eine Anwendung zum Finden und Reservieren von Parkplätzen.",
   "main": "index.js",
   "scripts": {
     "start": "node server/app.js",
     "client": "cd client && npm start",
-    "dev": "concurrently \"npm run server\" \"npm run client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\"
   },
   "dependencies": {
     "express": "^4.17.1",
