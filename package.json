@@ -1,6 +1,6 @@
 {
   "name": "parken-platzfinder",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Eine Anwendung zum Finden und Reservieren von Parkplätzen.",
   "main": "index.js",
   "scripts": {
